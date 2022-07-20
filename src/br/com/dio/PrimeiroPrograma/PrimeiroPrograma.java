@@ -1,6 +1,6 @@
-package br.com.dio;
+package br.com.dio.PrimeiroPrograma;
 
-import br.com.dio.model.Gato;
+import br.com.dio.PrimeiroPrograma.model.Gato;
 
 public class PrimeiroPrograma {
 
@@ -14,6 +14,7 @@ public class PrimeiroPrograma {
 		int b = 3;
 		// TODO Auto-generated method stub
 		System.out.println("Hello World! " + (a+b));
+		
 	}
 
 }
